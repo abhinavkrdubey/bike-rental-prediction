@@ -7,15 +7,16 @@ The objective is to model the demand for shared bikes with the available indepen
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Provide general information about your project here.
+	- The objective is the model the demand of the shared bikes and what factors affect them.
 - What is the background of your project?
-- What is the business probem that your project is trying to solve?
+	- The project uses Linear Regression to solve the bussiness objective.
 - What is the dataset that is being used?
+	- Bike Rental Dataset is being used.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
